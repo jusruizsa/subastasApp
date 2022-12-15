@@ -29,7 +29,13 @@
     padding: 10px;
 }
 
-li {
+.navigation>ul>li {
     display: inline;
+    padding: 10px;
+}
+
+.product {
+    border: solid;
+    margin: 30px;
     padding: 10px;
 }
